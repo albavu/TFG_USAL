@@ -23,7 +23,20 @@ Descargar la carpeta python_web de este enlace: https://drive.google.com/drive/f
 
 Una vez descargado hacer en terminal
 
-``` 
+
+```
+Da un ejemplo
+```
+
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Dí cómo será ese paso_
+
+```
+Da un ejemplo
+```
 
 _Y repite_
 
@@ -96,3 +109,8 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.
+
+
+
+---
+⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
