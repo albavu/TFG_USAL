@@ -13,7 +13,7 @@ La posible solución propuesta tras la búsqueda de modelos tanto de machine lea
 ### Página web📋
 
 Existe una página asociada al trabajo en la que se puede probar el modelo
-Dirección: 37.35.239.182:8080
+Dirección: http://37.35.239.182:8080
 
 ### Instalación 🔧
 
