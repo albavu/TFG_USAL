@@ -40,7 +40,7 @@ Ahora ya saldrá una url que copiando se podrá acceder a la página web en loca
 ## Ejecutando las pruebas ⚙️
 
 Para poder probar el modelo se puede descargar el archivo csv de prueba en este enlace:
-https://drive.google.com/file/d/10SDn4RYaUM2yZzUVEsEsTVjTttiuGv8c/view?usp=sharing
+https://drive.google.com/drive/folders/1yNJZ83TOdXUHteIIhmut9T60sMiNmyNf?usp=sharing
 
 ## Construido con 🛠️
 
