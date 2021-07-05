@@ -1,4 +1,7 @@
-![Logo](logo.png)
+
+<p align="center">
+  <img src="logo.png" width="300" title="hover text">
+</p>
 
 # TFG Alba Vallejo Urruchi
 
