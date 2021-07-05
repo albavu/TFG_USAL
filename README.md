@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="logo.png" width="300" title="hover text">
-</p>
-
 # TFG Alba Vallejo Urruchi
 
 Este repositotio contiene todo el código del trabajo de fin de grado de ingeniería informática de Alba Vallejo Urruchi de la Universidad de Salamanca titulado "Desarrollo de una solución mediante Deep Learning para la predicción de secuencias nucleosomales de DNA"
@@ -60,4 +55,8 @@ https://drive.google.com/drive/folders/1yNJZ83TOdXUHteIIhmut9T60sMiNmyNf?usp=sha
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+<p align="center">
+  <img src="logo.png" width="300" title="hover text">
+</p>
 
