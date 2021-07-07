@@ -1,10 +1,12 @@
+#############################################################################
+            # Autor: Alba Vallejo Urruchi
+            # TFG Ingeniería Informática 2020-2021
+            # Universidad de Salamanca
+#############################################################################
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 19:32:56 2021
 
-@author: alba_vu
-"""
 import os
 os.environ['OPENBLAS_NUM_THREADS'] = '1'
 import pandas as pd

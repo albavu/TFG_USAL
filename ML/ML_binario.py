@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 24 19:51:38 2021
+#############################################################################
+            # Autor: Alba Vallejo Urruchi
+            # TFG Ingeniería Informática 2020-2021
+            # Universidad de Salamanca
+#############################################################################
 
-@author: alba_vu
-"""
 #!/usr/bin/env python
 # coding: utf-8
 

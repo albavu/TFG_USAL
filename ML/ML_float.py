@@ -1,10 +1,12 @@
+#############################################################################
+            # Autor: Alba Vallejo Urruchi
+            # TFG Ingeniería Informática 2020-2021
+            # Universidad de Salamanca
+#############################################################################
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 24 20:21:11 2021
 
-@author: alba_vu
-"""
 
 import os
 os.environ['OPENBLAS_NUM_THREADS'] = '1'
