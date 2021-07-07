@@ -1,3 +1,9 @@
+#############################################################################
+            # Autor: Alba Vallejo Urruchi
+            # TFG Ingeniería Informática 2020-2021
+            # Universidad de Salamanca
+#############################################################################
+
 #!/usr/bin/env python
 # coding: utf-8
 

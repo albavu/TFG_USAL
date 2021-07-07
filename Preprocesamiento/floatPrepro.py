@@ -1,10 +1,12 @@
+#############################################################################
+            # Autor: Alba Vallejo Urruchi
+            # TFG Ingeniería Informática 2020-2021
+            # Universidad de Salamanca
+#############################################################################
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 24 20:49:27 2021
 
-@author: alba_vu
-"""
 
 import re
 import pandas as pd
